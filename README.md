@@ -1,6 +1,7 @@
 # Graph Analytics with Python
 
 Graph analytics and network analysis using **Python**, **NetworkX**, and **Scikit-Network**.
+This project was developed to explore graph analytics concepts using Python and widely used network analysis algorithms. It demonstrates how different graph metrics can be used to identify influential nodes, detect communities, and analyze complex network structures through visualization.
 
 ---
 
