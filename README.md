@@ -51,13 +51,13 @@ This project demonstrates graph analytics techniques on a real-world social netw
 
 ## Betweenness Centrality
 
-![Betweenness](out_26.png)
+![Betweenness Centrality](out_26.png)
 
 ---
 
 ## Closeness Centrality
 
-![Closeness](out_29.png)
+![Closeness Centrality](out_29.png)
 
 ---
 
