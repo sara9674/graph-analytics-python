@@ -1,23 +1,12 @@
 # Graph Analytics with Python
 
-## Overview
-
-This project explores graph analytics techniques using Python on a real-world social network dataset.
-
-The notebook demonstrates how graph algorithms can be applied to identify influential nodes, detect communities, analyze network connectivity, and visualize complex graph structures.
+Graph analytics and network analysis using **Python**, **NetworkX**, and **Scikit-Network**.
 
 ---
 
-## Features
+## Overview
 
-- Network Visualization
-- Community Detection (Louvain Algorithm)
-- PageRank Analysis
-- Degree Centrality
-- Betweenness Centrality
-- Closeness Centrality
-- Connected Components
-- Bridge Detection
+This project demonstrates graph analytics techniques on a real-world social network dataset. The notebook explores graph structures, node importance, and community detection using widely used graph algorithms.
 
 ---
 
@@ -33,9 +22,46 @@ The notebook demonstrates how graph algorithms can be applied to identify influe
 
 ---
 
-## Applications
+## Implemented Algorithms
 
-Graph analytics has applications in:
+- Network Visualization
+- Community Detection (Louvain)
+- PageRank
+- Degree Centrality
+- Betweenness Centrality
+- Closeness Centrality
+- Connected Components
+- Bridge Detection
+
+---
+
+# Project Results
+
+## Community Detection
+
+![Community Detection](out_50.png)
+
+---
+
+## PageRank
+
+![PageRank](out_32.png)
+
+---
+
+## Betweenness Centrality
+
+![Betweenness](out_26.png)
+
+---
+
+## Closeness Centrality
+
+![Closeness](out_29.png)
+
+---
+
+## Applications
 
 - Social Network Analysis
 - Recommendation Systems
@@ -45,20 +71,9 @@ Graph analytics has applications in:
 
 ---
 
-## Project Structure
-
-```
-graph-analytics-python
-│
-├── graph_analytics_network_analysis.ipynb
-├── README.md
-```
-
----
-
-## Future Improvements
+## Future Work
 
 - Interactive graph visualization
-- Larger datasets
 - Graph Neural Networks (GNN)
-- Real-world communication network analysis
+- Large-scale graph datasets
+- Communication network analysis
